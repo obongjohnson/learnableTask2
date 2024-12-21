@@ -77,4 +77,3 @@ git cherry-pick <commit-hash>
 
 Example: If you want to apply a commit with hash develop to your current branch:
 git cherry-pick develop
-
